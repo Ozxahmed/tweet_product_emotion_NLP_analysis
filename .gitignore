@@ -1,3 +1,7 @@
+# Folders & File Extensions
+josh_phase4_project/
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
